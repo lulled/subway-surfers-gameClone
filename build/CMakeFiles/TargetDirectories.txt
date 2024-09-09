@@ -1,0 +1,3 @@
+/Users/lule/subway-surfer/build/CMakeFiles/SubwaySurfersClone.dir
+/Users/lule/subway-surfer/build/CMakeFiles/edit_cache.dir
+/Users/lule/subway-surfer/build/CMakeFiles/rebuild_cache.dir
