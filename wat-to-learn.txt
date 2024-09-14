@@ -1,0 +1,5 @@
+1. string handling 
+2. types ** vectors and their types 
+3. pointers 
+4. loops
+5. ** classes and all builtin methods , templates , stl containers  
